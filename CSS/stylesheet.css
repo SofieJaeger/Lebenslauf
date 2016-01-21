@@ -1,0 +1,78 @@
+.wrapper{
+  margin-left: auto;
+  margin-right: auto;
+  width: 660px;
+  background-color: white;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+body{
+  background-color: pink;
+}
+
+.image{
+  width:160px;
+  float: right;
+}
+
+h1{
+  font-family: Helvetica, sans-serif;
+  color: pink;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+h3{
+  font-family: Helvetica, sans-serif;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  color: #4a4a4a;
+  border-top: 1px solid #4a4a4a;
+  border-bottom: 1px solid #4a4a4a;
+}
+
+p{
+  font-family: Helvetica, sans-serif;
+  color: 4a4a4a;}
+
+.Zur-Person strong {
+  display: inline-block;
+  width: 200px;
+  color: #4a4a4a;}
+
+
+.Schulausbildung strong {
+  display: inline-block;
+  width: 200px;}
+
+.Sprachkenntnisse strong {
+  display: inline-block;
+  width: 200px;}
+
+.Auslandsaufenthalte strong {
+  display: inline-block;
+  width: 200px;}
+
+
+.row{
+  display: inline-block;
+}
+
+.box{
+  widith: 600px;
+}
+
+.right {
+  float: right;
+  width:160px;
+}
+
+.left{
+  float: left;
+  width: 440px;
+}
